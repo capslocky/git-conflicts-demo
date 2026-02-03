@@ -1,5 +1,0 @@
-Dennis Ritchie was an American computer scientist best known for creating the C programming language and co-developing Unix.
-Working at Bell Labs in the late 1960s and 1970s, he focused on making systems that were simple, fast, and portable,
-which ended up shaping how modern operating systems and software are built.
-C and Unix became the foundation for much of today’s computing, influencing everything from Linux and macOS to embedded systems.
-Unlike many tech celebrities, Ritchie stayed low-key and avoided hype, but his impact on computing is hard to overstate.
