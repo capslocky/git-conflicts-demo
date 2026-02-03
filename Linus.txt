@@ -3,7 +3,7 @@ He was born in 1969 in Helsinki and got interested in computers early, mostly by
 While studying computer science in the early 1990s, he started writing his own operating system kernel as a personal project,
 mainly because he wanted something better than what was available to him at the time.
 
-That small project turned into Linux, which he released openly on the internet in 1991.
+That small side project grew into Linux, which he released on the internet in 1991.
 Instead of keeping control, Linus encouraged others to contribute, fix bugs, and improve it.
 This approach helped Linux grow fast and become the foundation for servers, supercomputers, Android phones, and much of the internet.
 He later also created Git, a version control system now used by millions of developers.
