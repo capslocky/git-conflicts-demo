@@ -1,0 +1,5 @@
+Margaret Hamilton is an American software engineer best known for leading the team that wrote the onboard software for NASA’s Apollo missions.
+In the 1960s, when software wasn’t taken very seriously,
+she pushed for rigorous engineering practices and helped invent what we now call “software engineering.”
+Her work on error detection and recovery played a key role in safely landing humans on the Moon, even when things went wrong during Apollo 11.
+She stayed relatively unknown for years, but today she’s widely recognized as one of the people who helped make modern software engineering possible.
