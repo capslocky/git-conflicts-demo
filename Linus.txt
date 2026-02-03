@@ -8,7 +8,7 @@ Instead of keeping control, Linus encouraged others to contribute, fix bugs, and
 This approach helped Linux grow fast and become the foundation for servers, supercomputers, Android phones, and much of the internet.
 He later also created Git, a version control system now used by millions of developers.
 
-Linus is known for being blunt, opinionated, and strongly focused on technical quality over feelings.
+Linus is known for being extremely direct, and at times blunt or harsh, when discussing code and technical decisions.
 Some people admire his honesty and clarity; others criticize his communication style as too harsh.
 Over time he has acknowledged this and adjusted how he interacts with the community.
 Today, he still oversees Linux development, acting as a final decision-maker rather than a day-to-day coder.
