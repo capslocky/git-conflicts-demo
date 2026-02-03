@@ -1,0 +1,5 @@
+Ken Thompson is an American computer scientist best known as one of the creators of Unix and an early contributor to the C programming language.
+In the late 1960s at Bell Labs, he helped design Unix as a small, clean operating system that was easy to understand and modify,
+which was a big shift from the heavy systems of the time.
+He later co-created the Go programming language at Google. Thompson is known for valuing simplicity and elegance in software,
+and his ideas quietly shaped how modern operating systems and programming languages work.

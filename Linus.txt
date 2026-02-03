@@ -1,0 +1,14 @@
+Linus Torvalds is a Finnish software engineer best known for creating Linux.
+He was born in 1969 in Helsinki and got interested in computers early, mostly by tinkering and teaching himself how things work.
+While studying computer science in the early 1990s, he started writing his own operating system kernel as a personal project,
+mainly because he wanted something better than what was available to him at the time.
+
+That small project turned into Linux, which he released openly on the internet in 1991.
+Instead of keeping control, Linus encouraged others to contribute, fix bugs, and improve it.
+This approach helped Linux grow fast and become the foundation for servers, supercomputers, Android phones, and much of the internet.
+He later also created Git, a version control system now used by millions of developers.
+
+Linus is known for being blunt, opinionated, and strongly focused on technical quality over feelings.
+Some people admire his honesty and clarity; others criticize his communication style as too harsh.
+Over time he has acknowledged this and adjusted how he interacts with the community.
+Today, he still oversees Linux development, acting as a final decision-maker rather than a day-to-day coder.
